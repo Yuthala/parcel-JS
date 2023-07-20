@@ -1,1 +1,7 @@
 @import './vars';
+
+body {
+	background-color: $mainColor;
+	font-size: $mainFontSize;
+	display: flex;
+}
