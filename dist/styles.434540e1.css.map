@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles/index.scss","styles/_vars.scss"],"names":[],"mappings":"AAEA;EACC,kBCHW;EDIX,WCFc;EDGd","file":"styles.434540e1.css","sourceRoot":"../src","sourcesContent":["@import './vars';\n\nbody {\n\tbackground-color: $mainColor;\n\tfont-size: $mainFontSize;\n\tdisplay: flex;\n}\n","$mainColor: red;\n\n$mainFontSize: 2rem;"]}
